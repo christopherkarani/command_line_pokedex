@@ -1,0 +1,1 @@
+{"rustc":9185094762801764644,"features":"[]","target":5808805606069683678,"profile":10955240417599398100,"path":1036222786711178230,"deps":[["reqwest v0.9.5","reqwest",2254546812663365737]],"local":[{"MtimeBased":[[1544263629,752033202],".fingerprint/command_line_pokedex-9271671f4d17ed91/dep-bin-command_line_pokedex-9271671f4d17ed91"]}],"rustflags":[],"edition":"Edition2018"}

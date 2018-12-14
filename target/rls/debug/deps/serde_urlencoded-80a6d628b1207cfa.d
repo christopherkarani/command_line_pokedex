@@ -1,0 +1,11 @@
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/serde_urlencoded-80a6d628b1207cfa.rmeta: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/de.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/key.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/pair.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/part.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/value.rs
+
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/serde_urlencoded-80a6d628b1207cfa.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/de.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/key.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/pair.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/part.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/value.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/de.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/key.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/pair.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/part.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.4/src/ser/value.rs:

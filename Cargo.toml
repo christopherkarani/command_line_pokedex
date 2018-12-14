@@ -1,0 +1,11 @@
+[package]
+name = "command_line_pokedex"
+version = "0.1.0"
+authors = ["Christopher Karani <chrisbkarani@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "*"
+serde_json = "1.0.33"
+serde = "*"
+serde_derive = "*"

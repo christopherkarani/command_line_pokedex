@@ -1,0 +1,10 @@
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/crossbeam_utils-05a23c269b803d26.rmeta: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/consume.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/cache_padded.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs
+
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/crossbeam_utils-05a23c269b803d26.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/consume.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/cache_padded.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/atomic/consume.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/cache_padded.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-utils-0.6.1/src/thread.rs:

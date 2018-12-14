@@ -1,0 +1,1 @@
+{"rustc":9185094762801764644,"features":"[]","target":3888446934983143955,"profile":11870183705523825133,"path":11244294499289281341,"deps":[["futures v0.1.25","futures",7640347236354075657],["tokio-executor v0.1.5","tokio_executor",990760632695973297]],"local":[{"Precalculated":"0.1.4"}],"rustflags":[],"edition":"Edition2015"}

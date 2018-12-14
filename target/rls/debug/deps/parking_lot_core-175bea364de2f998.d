@@ -1,0 +1,10 @@
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/parking_lot_core-175bea364de2f998.rmeta: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs
+
+/Users/apples/Desktop/command_line_pokedex/target/rls/debug/deps/parking_lot_core-175bea364de2f998.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/thread_parker/unix.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/parking_lot.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/spinwait.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/util.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.3.1/src/word_lock.rs:

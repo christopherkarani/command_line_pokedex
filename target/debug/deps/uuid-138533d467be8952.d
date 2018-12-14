@@ -1,0 +1,14 @@
+/Users/apples/Desktop/command_line_pokedex/target/debug/deps/uuid-138533d467be8952.rmeta: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs
+
+/Users/apples/Desktop/command_line_pokedex/target/debug/deps/uuid-138533d467be8952.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs:
